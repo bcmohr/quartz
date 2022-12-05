@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f4df2f620680aea4",
+        "id": "4ffc81baca01bebb",
         "type": "tabs",
         "children": [
           {
-            "id": "ad4fafdd64d47a6f",
+            "id": "95e17488383b9f3e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/_index.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/_index.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -136,6 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ad4fafdd64d47a6f",
-  "lastOpenFiles": []
+  "active": "95e17488383b9f3e",
+  "lastOpenFiles": [
+    "content/_index.md",
+    "hello_world.md",
+    "1664667297603837.gif",
+    "content/notes/images/obsidian-settings.png",
+    "content/notes/images/google-domains.png",
+    "content/notes/images/github-pages.png",
+    "content/notes/images/github-actions.png",
+    "static/icon.png",
+    "README.md",
+    "screenshot.png"
+  ]
 }
