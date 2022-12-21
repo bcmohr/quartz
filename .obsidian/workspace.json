@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "hello_world.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e1b30329155fa7b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/notes/hello_world.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/hello_world.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/hello_world.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/notes/hello_world.md"
               }
             }
           }
@@ -136,11 +149,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "95e17488383b9f3e",
+  "active": "eeacefc1b4fa0d73",
   "lastOpenFiles": [
     "hello_world.md",
-    "content/notes/editing.md",
     "content/_index.md",
+    "content/notes/editing.md",
     "content/notes/setup.md",
     "content/notes/custom Domain.md",
     "content/notes/troubleshooting.md",
