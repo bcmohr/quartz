@@ -1,5 +1,6 @@
 {
   "newLinkFormat": "absolute",
   "livePreview": false,
-  "showLineNumber": true
+  "showLineNumber": true,
+  "useMarkdownLinks": true
 }
