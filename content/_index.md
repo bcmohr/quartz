@@ -19,6 +19,9 @@ enableToc: false
 
 [[content/notes/editing]]
 
+---
+
+[[hello_world]]
 
 ---
 

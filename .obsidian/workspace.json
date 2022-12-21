@@ -15,7 +15,7 @@
               "state": {
                 "file": "content/_index.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -138,15 +138,15 @@
   },
   "active": "95e17488383b9f3e",
   "lastOpenFiles": [
-    "content/_index.md",
     "hello_world.md",
+    "content/notes/editing.md",
+    "content/notes/custom Domain.md",
+    "content/notes/troubleshooting.md",
+    "content/notes/showcase.md",
+    "content/notes/setup.md",
+    "content/notes/callouts.md",
+    "content/_index.md",
     "1664667297603837.gif",
-    "content/notes/images/obsidian-settings.png",
-    "content/notes/images/google-domains.png",
-    "content/notes/images/github-pages.png",
-    "content/notes/images/github-actions.png",
-    "static/icon.png",
-    "README.md",
-    "screenshot.png"
+    "content/notes/images/obsidian-settings.png"
   ]
 }
