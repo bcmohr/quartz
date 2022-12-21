@@ -5,6 +5,6 @@ weight: -4
 
 wow look at life so cool
 
-![[content/1664667297603837.gif]]
+![[content/skeleton.gif]]
 
 askdljfaslkdjf;lkasdjf;lkajsdflj
