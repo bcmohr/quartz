@@ -21,9 +21,11 @@ enableToc: false
 
 ---
 
-[[hello_world]]
-[[hello_world.md]]
-[hello_world](hello_world.md)
+1. [[hello_world]]
+2. [[hello_world.md]]
+3. [hello_world](hello_world.md)
+4. [notes/setup.md]
+5. [Testing!](notes/setup.md)
 
 ---
 

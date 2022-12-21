@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hello_world.md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hello_world.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hello_world.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hello_world.md"
+                "file": "content/_index.md"
               }
             }
           }
@@ -138,10 +138,10 @@
   },
   "active": "95e17488383b9f3e",
   "lastOpenFiles": [
+    "hello_world.md",
     "content/notes/editing.md",
     "content/_index.md",
     "content/notes/setup.md",
-    "hello_world.md",
     "content/notes/custom Domain.md",
     "content/notes/troubleshooting.md",
     "content/notes/showcase.md",
