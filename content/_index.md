@@ -9,7 +9,7 @@ enableToc: false
 
 ---
 
-![[content/notes/editing#Front Matter]]
+[[content/notes/editing#Front Matter]]
 
 ---
 
