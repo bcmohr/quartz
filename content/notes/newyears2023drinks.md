@@ -11,11 +11,11 @@ enableToc: false
 
 ### • Kamikaze
 
-Vodka, lime juice, triple sec
+Vodka, triple sec, lime juice, lime
 
-*Certainly a classic in these circles.*
+*The Kamikaze shot first appeared in 1976 and may have been the original “shooter” cocktail. A true classic in our circles.*
 
-tart🍋, fresh✨
+tart🍋, sweet🍬 • 17% ABV
 
 ---
 
@@ -643,16 +643,6 @@ Orange juice, lime juice, simple syrup, light rum
 *By Mariano Licudine, who won a 1959 rum cocktail competition with this drink.*
 
 tart🍋, sweet🍬 • 9% ABV
-
----
-
-### • Kamikaze
-
-Vodka, triple sec, lime juice, lime
-
-*The Kamikaze shot first appeared in 1976 and may have been the original “shooter” cocktail.*
-
-tart🍋, sweet🍬 • 17% ABV
 
 ---
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/newyears2023drinks.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/newyears2023drinks.md",
                 "mode": "preview",
                 "source": true
               }
@@ -89,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 248.5
   },
   "right": {
     "id": "ad5d788b7669f799",
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/newyears2023drinks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/newyears2023drinks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/notes/newyears2023drinks.md"
               }
             }
           }
@@ -166,11 +166,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "95e17488383b9f3e",
+  "active": "46e34eb28192dfe2",
   "lastOpenFiles": [
+    "content/_index.md",
     "content/notes/newyears2023drinks.md",
     "content/notes/newyears2023shots.md",
-    "content/_index.md",
     "content/notes/announcement.md",
     "hello_world.md",
     "CODE_OF_CONDUCT.md",
