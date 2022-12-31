@@ -1,5 +1,4 @@
 ---
-title: Menu 
 enableToc: false
 ---
 
