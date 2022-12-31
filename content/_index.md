@@ -1,5 +1,5 @@
 ---
-title: Party!!
+title: Home
 enableToc: false
 ---
 
@@ -7,6 +7,6 @@ enableToc: false
 
 ---
 
-[[content/notes/menu|Click here]] for the New Year's Drink Menu!
+### [[content/notes/newyears2023|Click here]] for the New Year's Drink Menu!
 
-[[content/notes/meme|Click here]] for an important announcement!
+### [[content/notes/announcement|Click here]] for an important announcement!

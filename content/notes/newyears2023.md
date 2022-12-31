@@ -1,5 +1,5 @@
 ---
-title: Menu '23 
+title: Menu 
 enableToc: false
 ---
 
