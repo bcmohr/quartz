@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/announcement.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/announcement.md",
                 "mode": "preview",
                 "source": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/announcement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/announcement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/notes/announcement.md"
               }
             }
           }
@@ -166,12 +166,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "95e17488383b9f3e",
+  "active": "46e34eb28192dfe2",
   "lastOpenFiles": [
+    "content/_index.md",
     "content/notes/preview changes.md",
     "content/notes/setup.md",
     "content/notes/newyears2023.md",
-    "content/_index.md",
     "content/notes/images/Pasted image 20221231134507.png",
     "content/notes/announcement.md",
     "content/notes/hello_world.md",

@@ -1,5 +1,5 @@
 ---
-title: Meme'd
+title: Announcement
 enableToc: false
 ---
 
