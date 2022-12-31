@@ -9,6 +9,16 @@ enableToc: false
 
 ---
 
+### • Kamikaze
+
+Vodka, lime juice, triple sec
+
+*Certainly a classic in these circles.*
+
+tart🍋, fresh✨
+
+---
+
 ### • Angostura Sour
 
 Egg, lime juice, Angostura bitters, simple syrup
@@ -17,6 +27,17 @@ Egg, lime juice, Angostura bitters, simple syrup
 even when the liquor cabinet is empty.**
 
 creamy🍦, bitter🫖 • 11% ABV
+
+---
+
+### • Cinnamon Toast Crunch
+
+Rumchata, vanilla vodka, fireball
+3-1-1/2
+
+*Relive the good old cereal days.*
+
+creamy🍦, sweet🍬
 
 ---
 
@@ -48,6 +69,14 @@ Bourbon whiskey, lemon juice, simple syrup, egg, Angostura bitters
 *If you like this, try the Continental Sour.*
 
 creamy🍦, tart🍋 • 12% ABV
+
+---
+
+### • Screwdriver
+
+Orange juice, vodka
+
+sweet🍬, fresh✨
 
 ---
 

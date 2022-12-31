@@ -7,6 +7,8 @@ enableToc: false
 
 ---
 
-### [[content/notes/newyears2023.md|Click here]] for the New Year's Drink Menu!
+### [[content/notes/newyears2023drinks.md|Click here for the New Year's Drink Menu! 🍸✨🍹]]
 
-### [[content/notes/announcement.md|Click here]] for an important announcement!
+### [[content/notes/newyears2023shots.md|Click here for the shots menu! 🥴💯🤯]]
+
+### [[content/notes/announcement.md|Click here for an important announcement!]]
