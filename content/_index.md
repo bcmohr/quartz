@@ -7,7 +7,7 @@ enableToc: false
 
 ---
 
-### [Click here for the  Drink Menu! 🍸✨🍹](https://linksharing.samsungcloud.com/mUq3CkwUDusi)
+### [Click here for the  Drink Menu! 🍸✨🍹](https://linksharing.samsungcloud.com/7lbRK53UfPZB)
 
 ### [[content/notes/newyears2023shots.md|Click here for the Shots Menu! 🥴💯🤯]]
 
