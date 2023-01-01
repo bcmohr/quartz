@@ -7,7 +7,7 @@ enableToc: false
 
 ---
 
-### [[content/notes/newyears2023drinks.md|Click here for the  Drink Menu! 🍸✨🍹]]
+### [Click here for the  Drink Menu! 🍸✨🍹](https://linksharing.samsungcloud.com/mUq3CkwUDusi)
 
 ### [[content/notes/newyears2023shots.md|Click here for the Shots Menu! 🥴💯🤯]]
 
